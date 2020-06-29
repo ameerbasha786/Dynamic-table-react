@@ -1,0 +1,9 @@
+th input{
+    background-color: #f5af18;
+    outline-style: none;
+    border:1px;
+    border-bottom-color:1px solid white;
+    color:white;
+    font-size: xx-small;
+    font-weight: bolder;
+}

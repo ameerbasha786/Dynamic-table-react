@@ -1,0 +1,101 @@
+caption{
+    color: #44aaff;
+    padding: 10px;
+}
+
+table{
+
+    margin: 0%;
+    padding: 0%;
+    border:1px solid #CCC;
+    background-color: #fff;
+    border-radius: 10px;
+    table-layout: auto;
+    
+}
+
+thead{
+
+    background-color: #f5af18;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border:0.2px solid #fff;
+
+}
+ 
+thead,tr,th{
+    margin: 0%;
+    border:1px solid #f5af18;
+    background-color: #f5af18;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 0px 10px;
+    color:white
+}
+
+tbody,tr,th{
+
+    background-color:transparent;
+    padding: 0px 10px;
+
+}
+
+tbody tr{
+    background-color: transparent;
+    border:1px solid transparent
+}
+
+button{
+    background-color: #f5af18;
+    outline-style: none;
+    border:1px solid #f5af18;
+    color:white;
+    float: left;
+}
+
+#addrowbtn{
+    font-size: smaller;
+    font-weight: bold;
+    padding: 4px 6px;
+    border:1px solid white;
+    background-color: #062899d0;
+    border-radius: 4px;
+    
+}
+
+tbody tr input{
+    width:90%;
+    background-color:#fff;
+    border:1px solid #fff;
+    outline-color: #fff;
+    height: 33px;
+    text-align: center;    
+}
+
+tbody tr td input{
+    margin: 0%;
+    padding: 0%;
+    float:left;
+    color:black;
+    font-weight: bold;
+    width: 80%;
+
+}
+
+tbody tr td{
+    margin:0%;
+    border:1px solid transparent;
+    color: slategrey;
+    font-size: xx-small;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#updaterowbtn{
+    font-size: smaller;
+    font-weight: bold;
+    padding: 4px 6px;
+    border:1px solid white;
+    background-color: green;
+    border-radius: 4px;
+}
